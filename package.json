@@ -23,7 +23,7 @@
         "lib/"
     ],
     "dependencies": {
-        "stylehacks": "^2.3",
+        "stylehacks": "^5.0.0",
         "stylelint": "^13.13"
     },
     "devDependencies": {
