@@ -14,11 +14,11 @@
         "url": "https://github.com/Slamdunk/"
     },
     "license": "MIT",
-    "repository": "Slamdunk/stylelint-no-browser-hacks",
+    "repository": "Boegie/stylelint-no-browser-hacks",
     "bugs": {
-        "url": "https://github.com/Slamdunk/stylelint-no-browser-hacks/pulls"
+        "url": "https://github.com/Boegie/stylelint-no-browser-hacks/pulls"
     },
-    "homepage": "https://github.com/Slamdunk/stylelint-no-browser-hacks",
+    "homepage": "https://github.com/Boegie/stylelint-no-browser-hacks",
     "files": [
         "lib/"
     ],
